@@ -189,7 +189,7 @@ data.forEach(function(d){
     });
 });
 
-console.log(newData)
+console.log("data is" , newData)
 
 // function to render hierarchical view
 function getNestedChildren(arr, parent) {
