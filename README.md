@@ -11,4 +11,4 @@ The json data then can be dumped into a file, to keep it separately which can be
 ### Steps required to see the tree structure:
 * Download/clone this repository.
 * View the html file in the browser which will be displaying the hierarchical data in a well-organised structure.
-* In the console, the tree structure can be found -  a simple representation of the tabular data in hirachical data instead of a flat data.
+* In the console, the tree structure can be found -  a simple representation of the tabular data in hierarchical data instead of a flat data.
